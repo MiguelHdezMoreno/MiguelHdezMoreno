@@ -25,7 +25,7 @@ A Renewed Journey: Embracing my long-held interest in programming at this stage 
 *   🌍  I'm based in Santa Cruz de Tenerife
 *   ✉️  You can contact me at [miguelanghdez@outlook.com](mailto:miguelanghdez@outlook.com)
 *   🧠  I'm learning Django, Flask & JavaScript
-*   🤝  I'm open to collaborating on Open Source projects### Skills 
+*   🤝  I'm open to collaborating on Open Source projects 
 
 ### Skills 
 <p align="left">
